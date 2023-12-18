@@ -1,0 +1,4 @@
+UPDATE Employee
+SET Em_dep = '銷售部',
+Em_name = '李安'
+WHERE Em_name = 'S0010'
